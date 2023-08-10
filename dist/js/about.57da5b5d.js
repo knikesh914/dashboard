@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdashboard"]=self["webpackChunkdashboard"]||[]).push([[443],{833:function(a,n,r){r.r(n),r.d(n,{default:function(){return h}});var s=r(6252);const u={class:"about"},t=(0,s._)("h1",null,"This is an about page",-1),e=[t];function c(a,n){return(0,s.wg)(),(0,s.iD)("div",u,e)}var o=r(3744);const d={},i=(0,o.Z)(d,[["render",c]]);var h=i}}]);
+//# sourceMappingURL=about.57da5b5d.js.map
